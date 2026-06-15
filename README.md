@@ -100,4 +100,8 @@ http://localhost:8080/InternshipTrackingSystem/admin_login.php
 
 This project is created for educational and academic purposes.
 
-This project is created for educational and academic purposes.
+
+
+
+
+
