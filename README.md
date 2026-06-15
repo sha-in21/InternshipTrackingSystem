@@ -78,15 +78,15 @@ http://localhost:8080/InternshipTrackingSystem/admin_login.php
 
 ### Admin Login
 
-![Admin Login](images/admin_login.png)
+![Admin Login](admin_login.png)
 
 ### Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Daily Logs
 
-![Daily Logs](images/logs.png)
+![Daily Logs](logs.png)
 
 
 ---
